@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Electronics Landing Page</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+	<header>
+		<h1>Zappify</h1>
+	</header>
+	<main>
+		<section id="featured-products">
+			<h2>Featured Products</h2>
+			<div class="product-card" id="product1">
+				<img src="product1.jpg" alt="Product 1">
+				<h3>Product 1</h3>
+				<p>$199.99</p>
+				<button>Add to Cart</button>
+			</div>
+			<!-- More product cards here -->
+		</section>
+		<!-- More sections here -->
+	</main>
+	<footer>
+		<p>&copy; 2023 Electronics Store</p>
+	</footer>
+	<script src="scripts.js"></script>
+</body>
+</html>
